@@ -9,7 +9,7 @@ You can [link](https://clontz.org) things.
 
 ## Important!
 
-I added a cool picture at https://github.com/StevenClontz/github-workshop-artifacts-20230627/pics/random-math.jpg
+I added a cool picture at [this link](https://github.com/StevenClontz/github-workshop-artifacts-20230627/blob/main/pics/random-math.jpg).
 
 ## Subheading
 
